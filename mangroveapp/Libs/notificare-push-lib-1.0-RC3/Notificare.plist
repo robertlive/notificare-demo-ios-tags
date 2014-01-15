@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEVELOPMENT_APP_KEY</key>
+	<string>93aaf22ebbd79759bd9fec5939a8d364e39586d27e10f8666bc715de7d1d0e96</string>
+	<key>DEVELOPMENT_APP_SECRET</key>
+	<string>dd12a7219bb084b81098542dbb80ee1bf531fc91893495991f747fb1e1163136</string>
+	<key>PRODUCTION_APP_KEY</key>
+	<string>fd23f05083cacd7fc76dfdf3930a77143e82f07648399f2b539af306fade9e17</string>
+	<key>PRODUCTION_APP_SECRET</key>
+	<string>ac6e17f3dc804c25ebb59e287ba4c3c0a0ccb014ce288fdc8a69fdb73b8e28c4</string>
+	<key>DEVELOPMENT</key>
+	<true/>
+	<key>RESOURCE_BUNDLE</key>
+	<string>NotificareResources.bundle</string>
+	<key>OPTIONS</key>
+	<dict>
+		<key>APP_RUNS_ON_BACKGROUND</key>
+		<false/>
+		<key>IMAGES_SHARING</key>
+		<true/>
+		<key>BACKGROUND_COLOR</key>
+		<string>FF0000</string>
+		<key>TITLE_COLOR</key>
+		<string>0x000000</string>
+		<key>BUTTONS_TEXT_COLOR</key>
+		<string>0x000000</string>
+		<key>TEXTFIELD_TEXT_COLOR</key>
+		<string>0x000000</string>
+		<key>TEXTFIELD_BACKGROUND_COLOR</key>
+		<string>0xCCCCCC</string>
+	</dict>
+</dict>
+</plist>

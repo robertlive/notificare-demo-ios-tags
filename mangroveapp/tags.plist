@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tags</key>
+	<dict>
+		<key>tag_for_news</key>
+		<string>news</string>
+		<key>tag_for_events</key>
+		<string>events</string>
+		<key>tag_for_jobs</key>
+		<string>jobs</string>
+		<key>tag_for_workshops</key>
+		<string>workshops</string>
+		<key>tag_for_other</key>
+		<string>other</string>
+	</dict>
+</dict>
+</plist>

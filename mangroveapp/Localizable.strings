@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  mangroveapp
+
+  Created by Joel Oliveira on 14/01/14.
+  Copyright (c) 2014 Joel Oliveira. All rights reserved.
+*/
+
+"tag_for_news" = "Receive updates about news";
+
+"tag_for_other" = "Receive updates in general";
+
+"tag_for_events" = "Receive updates about events";
+
+"tag_for_workshops" = "Receive updates about workshops";
+
+"tag_for_jobs" = "Receive updates about jobs";
